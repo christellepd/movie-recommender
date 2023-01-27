@@ -3,8 +3,7 @@
 
 
 ### :green_book: Description
-This repository shows an exploratory analysis and movie recommendatio
-n  and predictive analysis of 2021 Formula 1 Racing Winners and sports betting simulation using a machine learning alogirthm `Logistic Regression`.
+This repository shows an extensive exploratory data analysis on the MovieLens dataset with a movie recommender system that aims to analyze the best possible _genre_, _time_ and _title length_ to produce a film.
 
 ---
 ### :computer: Tools
