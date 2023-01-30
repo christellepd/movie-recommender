@@ -6,7 +6,7 @@
 This repository shows an extensive exploratory data analysis on the MovieLens dataset with a movie recommender system that aims to analyze the best possible _genre_, _time_ and _title length_ to produce a film.
 
 ---
-### :computer: Tools
+### :computer: Tech Stack
 `Python` `PostgreSQL` `DBeaver` `Relational Database Management System (RDBMS)` 
 
 
